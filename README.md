@@ -13,3 +13,6 @@ A diferença entre despesas de capital (CapEx) e despesas operacionais (OpEx), d
 
 Computação em Nuvem - Revisão
 E no final deste módulo revisamos os conceitos aprendidos ao longo do curso, consolidando o conhecimento e preparando os alunos para aplicar essas práticas em situações reais.
+
+Na parte de Tipos de Serviço na nuvem aprendemos sobre:
+IaaS, PaaS e SaaS, os três principais modelos de serviço na Azure, cada um com diferentes níveis de controle e flexibilidade. Exploramos também o Modelo de Responsabilidade Compartilhada, que divide as responsabilidades de segurança entre o provedor de nuvem e o cliente. Além disso, revisamos os tipos de serviços de nuvem oferecidos pela Azure, como computação, rede, armazenamento e banco de dados, cada um deles atendendo a diversas necessidades organizacionais.
