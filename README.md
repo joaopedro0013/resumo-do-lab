@@ -16,3 +16,13 @@ E no final deste módulo revisamos os conceitos aprendidos ao longo do curso, co
 
 Na parte de Tipos de Serviço na nuvem aprendemos sobre:
 IaaS, PaaS e SaaS, os três principais modelos de serviço na Azure, cada um com diferentes níveis de controle e flexibilidade. Exploramos também o Modelo de Responsabilidade Compartilhada, que divide as responsabilidades de segurança entre o provedor de nuvem e o cliente. Além disso, revisamos os tipos de serviços de nuvem oferecidos pela Azure, como computação, rede, armazenamento e banco de dados, cada um deles atendendo a diversas necessidades organizacionais.
+
+Componentes de Arquitetura de Azure:
+
+Os componentes da arquitetura do Azure incluem serviços de computação, armazenamento, rede e banco de dados. Esses serviços são a base para construir e gerenciar soluções na nuvem.
+
+Entendendo Pares de Região e Grupos de Recursos Aprendemos sobre Pares de Região, que são pares de datacenters em diferentes regiões geográficas, garantindo alta disponibilidade e recuperação de desastres. Os Grupos de Recursos são contêineres lógicos que organizam e gerenciam recursos relacionados no Azure.
+
+Assinatura da Azure e Grupos de Gerenciamento Discutimos como a Assinatura da Azure fornece acesso a serviços e como os Grupos de Gerenciamento ajudam a organizar várias assinaturas sob uma estrutura hierárquica, facilitando a governança e a administração.
+
+Componentes de Arquitetura do Azure - Revisão Por fim, revisamos os componentes de arquitetura, enfatizando sua importância na criação de soluções robustas e escaláveis na nuvem.
