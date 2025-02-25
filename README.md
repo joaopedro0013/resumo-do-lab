@@ -12,4 +12,4 @@ Comparação entre CapEx e OpEx
 A diferença entre despesas de capital (CapEx) e despesas operacionais (OpEx), destacando como a computação em nuvem pode transformar CapEx em OpEx, proporcionando maior flexibilidade financeira para as organizações.
 
 Computação em Nuvem - Revisão
-Eno final deste módulo revisamos os conceitos aprendidos ao longo do curso, consolidando o conhecimento e preparando os alunos para aplicar essas práticas em situações reais.
+E no final deste módulo revisamos os conceitos aprendidos ao longo do curso, consolidando o conhecimento e preparando os alunos para aplicar essas práticas em situações reais.
