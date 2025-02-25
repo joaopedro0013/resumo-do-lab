@@ -17,6 +17,7 @@ E no final deste módulo revisamos os conceitos aprendidos ao longo do curso, co
 Na parte de Tipos de Serviço na nuvem aprendemos sobre:
 IaaS, PaaS e SaaS, os três principais modelos de serviço na Azure, cada um com diferentes níveis de controle e flexibilidade. Exploramos também o Modelo de Responsabilidade Compartilhada, que divide as responsabilidades de segurança entre o provedor de nuvem e o cliente. Além disso, revisamos os tipos de serviços de nuvem oferecidos pela Azure, como computação, rede, armazenamento e banco de dados, cada um deles atendendo a diversas necessidades organizacionais.
 
+
 Componentes de Arquitetura de Azure:
 
 Os componentes da arquitetura do Azure incluem serviços de computação, armazenamento, rede e banco de dados. Esses serviços são a base para construir e gerenciar soluções na nuvem.
@@ -26,3 +27,15 @@ Entendendo Pares de Região e Grupos de Recursos Aprendemos sobre Pares de Regi�
 Assinatura da Azure e Grupos de Gerenciamento Discutimos como a Assinatura da Azure fornece acesso a serviços e como os Grupos de Gerenciamento ajudam a organizar várias assinaturas sob uma estrutura hierárquica, facilitando a governança e a administração.
 
 Componentes de Arquitetura do Azure - Revisão Por fim, revisamos os componentes de arquitetura, enfatizando sua importância na criação de soluções robustas e escaláveis na nuvem.
+
+
+Computação e Rede na Azure:
+Serviços de Computação e Máquinas Virtuais do Azure Os serviços de computação da Azure, incluindo Máquinas Virtuais (VMs), fornecem uma infraestrutura escalável e flexível para hospedar aplicativos e cargas de trabalho.
+
+Conjuntos de Disponibilidade de Máquinas Virtuais do Azure Aprendemos sobre Conjuntos de Disponibilidade, que garantem a alta disponibilidade das VMs distribuindo-as entre vários datacenters, reduzindo o risco de interrupções.
+
+Área de Trabalho Virtual e Contêineres do Azure Também exploramos a Área de Trabalho Virtual, que permite acesso remoto seguro a desktops e aplicativos, e os Contêineres do Azure, que facilitam a implementação e o gerenciamento de aplicativos em ambientes de contêiner.
+
+Azure Functions e Serviços de Aplicativo do Azure Estudamos as Azure Functions, que permitem a execução de código sem a necessidade de gerenciar a infraestrutura, e os Serviços de Aplicativo, que oferecem um ambiente para criar, implantar e escalar aplicativos web.
+
+Computação e Rede - Revisão Por fim, revisamos os conceitos de computação e rede, destacando como esses serviços podem ser utilizados para criar soluções eficientes e confiáveis na nuvem.
